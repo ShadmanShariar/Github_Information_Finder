@@ -72,7 +72,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jScrollPane2.setViewportView(dis);
 
         jLabel4.setFont(new java.awt.Font("Tahoma", 3, 12)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(102, 102, 102));
+        jLabel4.setForeground(new java.awt.Color(51, 51, 255));
         jLabel4.setText("Developed By - Shadman Shariar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
